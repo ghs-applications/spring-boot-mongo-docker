@@ -1,6 +1,6 @@
 version: "3.1"
 services:
-  spring:
+  springboot:
     environment:
      - MONGO_DB_HOSTNAME=mongo
      - MONGO_DB_USERNAME=qadb
